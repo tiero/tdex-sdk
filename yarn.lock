@@ -3010,10 +3010,10 @@ growly@^1.3.0:
   resolved "https://registry.yarnpkg.com/growly/-/growly-1.3.0.tgz#f10748cbe76af964b7c96c93c6bcc28af120c081"
   integrity sha1-8QdIy+dq+WS3yWyTxrzCivEgwIE=
 
-grpc-web@~1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/grpc-web/-/grpc-web-1.2.0.tgz#96402a1245ea834fedb1dd5a80f910476ddbbb1c"
-  integrity sha512-QS0RF+xiWnMEiHWyA0A0I8JYYJLOiF/DGEpRQ7vJDOzEZYfmNqI7d7d29sYBbNfTi+arVh2JpeGIX7ch24a+tA==
+grpc-web@~1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/grpc-web/-/grpc-web-1.2.1.tgz#860051d705bf5baa7b81fcbd14030060bf16b7b9"
+  integrity sha512-ibBaJPzfMVuLPgaST9w0kZl60s+SnkPBQp6QKdpEr85tpc1gXW2QDqSne9xiyiym0logDfdUSm4aX5h9YBA2mw==
 
 har-schema@^2.0.0:
   version "2.0.0"
@@ -4098,9 +4098,9 @@ lines-and-columns@^1.1.6:
   resolved "https://registry.yarnpkg.com/lines-and-columns/-/lines-and-columns-1.1.6.tgz#1c00c743b433cd0a4e80758f7b64a57440d9ff00"
   integrity sha1-HADHQ7QzzQpOgHWPe2SldEDZ/wA=
 
-liquidjs-lib@provable-things/liquidjs-lib:
+liquidjs-lib@vulpemventures/liquidjs-lib:
   version "5.1.6"
-  resolved "https://codeload.github.com/provable-things/liquidjs-lib/tar.gz/97673986c4233dee61f98dc59b5256ed2a8f313d"
+  resolved "https://codeload.github.com/vulpemventures/liquidjs-lib/tar.gz/9f9ba39fbffc8c4501b0d890ca7cb07219ad7b2e"
   dependencies:
     axios "^0.19.2"
     bech32 "^1.1.2"
@@ -5826,11 +5826,11 @@ table@^5.2.3:
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
 
-tdex-protobuf@tdex-network/tdex-protobuf#master:
-  version "1.0.0"
-  resolved "https://codeload.github.com/tdex-network/tdex-protobuf/tar.gz/1d7548f4a8a7db0a1b4c53a9e2e368c5bc79048f"
+tdex-protobuf@tdex-network/tdex-protobuf#beta:
+  version "2.0.0"
+  resolved "https://codeload.github.com/tdex-network/tdex-protobuf/tar.gz/5616d85de493fb4e1b40ee1b03efadfddc44e792"
   dependencies:
-    grpc-web "~1.2.0"
+    grpc-web "~1.2.1"
 
 terser@^4.6.2:
   version "4.8.0"
